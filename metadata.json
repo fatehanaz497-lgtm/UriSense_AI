@@ -1,0 +1,6 @@
+{
+  "name": "UriSense AI – Smart AIoT Urinalysis System",
+  "description": "Smart AIoT urinalysis system featuring live ESP32 device monitoring, 10-parameter urine strip analysis, patient records, PDF reports, and the Gemini-powered UriSense Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
